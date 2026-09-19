@@ -4,7 +4,7 @@ An interactive Excel dashboard built using Power Query, Power Pivot, DAX, PivotT
 
 ## Dashboard Preview
 
-![Excel Dashboard](dashboard.png)
+![Excel Dashboard](Dashboard.png)
 
 ## Features
 
